@@ -33,15 +33,6 @@ http://146.59.54.163/361/index.m3u8
 #EXTINF:-1,Private TV
 https://cdn-main.lolokoko.tv/private.stream/chunks.m3u8
 
-#EXTINF:-1,PornBox 1
-http://23.237.100.82:8000/PLAYBOY/index.m3u8
-#EXTINF:-1,PornBox 2
-http://23.237.100.82:8000/HUSTLER/index.m3u8
-#EXTINF:-1,PornBox 3
-http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-#EXTINF:-1,PornBox 4
-http://23.237.100.82:8000/BRAZZERS/index.m3u8
-
 #EXTINF:-1,Erox 
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 
